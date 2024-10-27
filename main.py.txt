@@ -1,0 +1,6 @@
+# Landmark Detection Placeholder
+def main():
+    print("Welcome to the Landmark Detection Project!")
+
+if __name__ == "__main__":
+    main()
